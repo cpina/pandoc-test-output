@@ -7,4 +7,6 @@ Using this Github Action: https://github.com/marketplace/actions/push-directory-
 
 Also available on: https://cpina.github.io/push-to-another-repository-output/
 
-Generated at: Sun Apr 25 09:33:24 UTC 2021.
+All the repositories using `main` (but it needs to be specified in the configuration in `target-branch`).
+
+Generated at: Sun Apr 25 10:22:03 UTC 2021.
