@@ -1,1 +1,1 @@
-new file test
+Testing adding a new file

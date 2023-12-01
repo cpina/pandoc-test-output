@@ -1,12 +1,10 @@
-# push-to-another-repository-output
+![CI](https://github.com/cpina/pandoc-test/workflows/CI/badge.svg)
 
-All the files from this repository are generated from:
-https://github.com/cpina/push-to-another-repository-example
+# push-to-another-repository-example
+Testing Github actions with Pandoc.
 
-Using this Github Action: https://github.com/marketplace/actions/push-directory-to-another-repository
+See the github-action repository: https://github.com/cpina/github-action-push-to-another-repository (it's used in this repository's CI action: https://github.com/cpina/push-to-another-repository-example/blob/main/.github/workflows/ci.yml#L20 )
 
-Also available on: https://cpina.github.io/push-to-another-repository-output/
+The output repository: https://github.com/cpina/push-to-another-repository-output
 
-All the repositories using `main` (but it needs to be specified in the configuration in `target-branch`).
-
-Generated at: Fri Dec  1 23:53:37 UTC 2023.
+Tested on 2023-12-01 23:50
